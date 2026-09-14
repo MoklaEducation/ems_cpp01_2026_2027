@@ -1,0 +1,20 @@
+pre {
+  background: var(--code-bg);
+  border: 1px solid #183d5c;
+  border-left: 8px solid var(--secondary);
+  border-radius: 4px;
+  color: var(--code-ink);
+  font-size: 20px;
+  line-height: 1.25;
+  padding: 18px 22px;
+}
+
+code {
+  font-family: Consolas, "Cascadia Code", monospace;
+}
+
+:not(pre) > code {
+  background: #dcebf7;
+  color: var(--primary-dark);
+  padding: 2px 5px;
+}

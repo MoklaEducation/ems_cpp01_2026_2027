@@ -1,0 +1,6 @@
+.callout {
+  background: #fff3ce;
+  border-left: 6px solid var(--accent);
+  color: #5f4300;
+  padding: 16px 20px;
+}

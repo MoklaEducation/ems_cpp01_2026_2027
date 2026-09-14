@@ -1,0 +1,34 @@
+section.exercise {
+  background-color: #fffaf0;
+  border-top: 14px solid var(--accent);
+}
+
+section.exercise h1::before {
+  color: #9a6200;
+  content: "Practice  ";
+  display: block;
+  font-family: "Segoe UI Semibold", "Segoe UI", Aptos, sans-serif;
+  font-size: 18px;
+  margin-bottom: 3px;
+  text-transform: uppercase;
+}
+
+section.exercise:has(.image-single) > ul,
+section.exercise:has(.image-single) > ol,
+section.exercise:has(.image-single) > p {
+  max-width: 46%;
+}
+
+section.exercise:has(.image-single) .image-single {
+  bottom: 54px;
+  height: 390px;
+  justify-content: center;
+  position: absolute;
+  right: 48px;
+  width: 49%;
+}
+
+section.exercise:has(.image-single) .image-single img {
+  max-height: 100%;
+  max-width: 100%;
+}

@@ -39,5 +39,12 @@ Create a Hello World program
 ## Lets Learn 
 You are now ready to learn, join the class with charged laptop and lots of questions
 
+## Course Materials
+
+### Week 1
+
+- **Primary:** [View the Week 1 slides (PDF)](materials/week-01/week-01-slides.pdf)
+- **Source:** [View the Week 1 slides (Markdown)](slides/weeks/week-01.md)
+
 ## Contact
 [moklaeducation@gmail.com](mailto:moklaeducation@gmail.com)

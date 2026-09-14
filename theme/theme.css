@@ -1,0 +1,49 @@
+/* @theme cpp-course */
+
+@import url('./typography.css');
+@import url('./layout.css');
+@import url('./code.css');
+@import url('./layouts/title.css');
+@import url('./layouts/two-column.css');
+@import url('./layouts/image-text.css');
+@import url('./layouts/exercise.css');
+@import url('./layouts/project.css');
+@import url('./components/callout.css');
+@import url('./components/definition.css');
+@import url('./components/example.css');
+
+:root {
+  --paper: #f7f9fb;
+  --surface: #ffffff;
+  --ink: #12263a;
+  --muted: #52697f;
+  --primary: #00599c;
+  --primary-dark: #004482;
+  --secondary: #659ad2;
+  --accent: #f2b134;
+  --line: #cbd9e6;
+  --code-bg: #071b2d;
+  --code-ink: #edf7ff;
+}
+
+section {
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(rgba(0, 89, 156, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 89, 156, 0.035) 1px, transparent 1px);
+  background-size: 32px 32px;
+  border-top: 9px solid var(--primary);
+  color: var(--ink);
+  padding: 56px 68px;
+}
+
+section::after {
+  background: var(--primary-dark);
+  color: white;
+  font-size: 16px;
+  min-width: 28px;
+  padding: 5px 10px;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+}

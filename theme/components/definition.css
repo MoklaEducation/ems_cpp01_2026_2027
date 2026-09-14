@@ -1,0 +1,8 @@
+.definition {
+  background: var(--surface);
+  border: 2px solid var(--secondary);
+  border-left: 7px solid var(--primary);
+  padding: 16px 20px;
+}
+
+.definition strong { color: var(--primary-dark); }

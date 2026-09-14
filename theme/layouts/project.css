@@ -1,0 +1,9 @@
+section.project {
+  background-color: #eef5fb;
+  border-left: 18px solid var(--primary-dark);
+}
+
+section.project h1 {
+  border-bottom-color: var(--accent);
+  color: var(--primary-dark);
+}

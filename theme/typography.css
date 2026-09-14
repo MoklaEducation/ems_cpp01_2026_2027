@@ -1,0 +1,26 @@
+section {
+  font-family: "Segoe UI", Aptos, Calibri, sans-serif;
+  font-size: 28px;
+  line-height: 1.28;
+  letter-spacing: 0;
+}
+
+h1, h2, h3 {
+  font-family: "Segoe UI Semibold", "Segoe UI", Aptos, sans-serif;
+  color: var(--primary);
+  letter-spacing: 0;
+  margin: 0 0 28px;
+}
+
+h1 {
+  border-bottom: 4px solid var(--secondary);
+  font-size: 50px;
+  padding-bottom: 12px;
+}
+h2 { font-size: 38px; }
+h3 { font-size: 30px; }
+
+p, ul, ol, table { margin-top: 0; }
+li { margin: 8px 0; }
+li::marker { color: var(--primary); }
+strong { color: var(--primary-dark); }

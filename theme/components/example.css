@@ -1,0 +1,5 @@
+.example {
+  background: #e7f1fa;
+  border-bottom: 4px solid var(--primary);
+  padding: 16px 20px;
+}

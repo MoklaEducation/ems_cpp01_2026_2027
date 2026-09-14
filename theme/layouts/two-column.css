@@ -1,0 +1,7 @@
+section.two-column {
+  column-count: 2;
+  column-gap: 48px;
+  display: block;
+}
+
+section.two-column h1 { column-span: all; }
