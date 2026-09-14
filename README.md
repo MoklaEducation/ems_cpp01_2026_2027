@@ -1,7 +1,7 @@
 # Setup 
 ## Intro To Programming using C++
 
-Setup for the fall 2025 programming class at EMS. These needs to be done before class to have a working class.
+Setup for the fall 2026 programming class at EMS. These needs to be done before class to have a working class.
 
 ## Equipment
 - Devices : Personal Laptop with Administrator access
