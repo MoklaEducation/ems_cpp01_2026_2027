@@ -1,0 +1,12 @@
+{
+  "name": "ems-cpp-course-slides",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:week-01",
+    "build:theme": "node scripts/bundle-theme.mjs",
+    "build:week-01": "npm run build:theme && node scripts/render-week-01.mjs"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "4.5.1"
+  }
+}
