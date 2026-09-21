@@ -46,6 +46,11 @@ You are now ready to learn, join the class with charged laptop and lots of quest
 - **Primary:** [View the Week 1 slides (PDF)](materials/week-01/week-01-slides.pdf)
 - **Source:** [View the Week 1 slides (Markdown)](slides/weeks/week-01.md)
 
+### Week 2
+
+- **Primary:** [View the Week 2 slides (PDF)](materials/week-02/week-02-slides.pdf)
+- **Source:** [View the Week 2 slides (Markdown)](slides/weeks/week-02.md)
+
 ### Week 3
 
 - **Primary:** [View the Week 3 slides (PDF)](materials/week-03/week-03-slides.pdf)
