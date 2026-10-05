@@ -56,5 +56,10 @@ You are now ready to learn, join the class with charged laptop and lots of quest
 - **Primary:** [View the Week 3 slides (PDF)](materials/week-03/week-03-slides.pdf)
 - **Source:** [View the Week 3 slides (Markdown)](slides/weeks/week-03.md)
 
+### Week 4
+
+- **Primary:** [View the Week 4 slides (PDF)](materials/week-04/week-04-slides.pdf)
+- **Source:** [View the Week 4 slides (Markdown)](slides/weeks/week-04.md)
+
 ## Contact
 [moklaeducation@gmail.com](mailto:moklaeducation@gmail.com)
